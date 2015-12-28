@@ -1,10 +1,13 @@
 # hello-world
-**https://guides.github.com/activities/hello-world/#merge**  
-	*The Hello World project is a time-honored tradition in computer programming.*  
-	*It is a simple exercise that gets you started when learning something new.*  
+>**https://guides.github.com/activities/hello-world/#merge**  
+*The Hello World project is a time-honored tradition in computer programming.*  
+*It is a simple exercise that gets you started when learning something new.*
 
+转载请注明出处:  
+>http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819  
+  
 ## 1.来龙去脉
-  **Markdown**是一种轻量级标记语言，创始人为约翰.格鲁伯(John Gruber)，它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。HTML是一种发布的格式，Markdown是一种书写的格式。  
+	  Markdown是一种轻量级标记语言，创始人为约翰.格鲁伯(John Gruber)，它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。HTML是一种发布的格式，Markdown是一种书写的格式。  
   
 ## 2.编辑软件  
 	  a. [MarkdownPad](http://markdownpad.com/) is a full-featured Markdown editor for Windows。  
@@ -34,4 +37,3 @@
 	  j. 列表标记：如果几行文字，想展示列表样式，只需要在每行文字前加上"-" 或"*" 即可变为无序列表，有序列表则直接在文字前加 1. 2. 3. ，符号要和文字之间加上一个字符的空格。  
 	  
 ## 4.个人总结  
-
