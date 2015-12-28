@@ -7,14 +7,12 @@
   **Markdown**是一种轻量级标记语言，创始人为约翰.格鲁伯(John Gruber)，它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。HTML是一种发布的格式，Markdown是一种书写的格式。  
   
 ## 2.编辑软件  
-
 	  a. [MarkdownPad](http://markdownpad.com/) is a full-featured Markdown editor for Windows。  
 	  b. [马克飞象](https://maxiang.io/)是一款转为印象笔记打造的在线Markdown编辑器。  
   
 ## 3.常用语法  
  
   以下只介绍最常用和最常见的语法，若想查看全部语法，请移步  [Markdown语法说明（简体中文版）](http://wowubuntu.com/markdown/index.html):  
-
 	  a. 标题：标题使用不同数量的"#"来标识是什么层级，可以对应HTML里的H1-H6。  
 
 	  b. 图片：\!\[Alt text](path/to/img.jpg)，方括号里放上图片的代替名称，圆括号里放上图片的网址。  
