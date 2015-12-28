@@ -1,5 +1,3 @@
-  ##这只是一个测试，关于代码版本回复的问题  
-  
   # hello-world
 **https://guides.github.com/activities/hello-world/#merge**  
 	*The Hello World project is a time-honored tradition in computer programming.*  
